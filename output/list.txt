@@ -1,0 +1,2 @@
+file 'D:\audio\output\segment_1.mp3'
+file 'D:\audio\output\segment_2.mp3'
